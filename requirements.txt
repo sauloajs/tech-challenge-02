@@ -1,0 +1,8 @@
+pandas
+seaborn
+missingno
+datetime
+numpy
+matplotlib
+scikit-learn
+openpyxl
